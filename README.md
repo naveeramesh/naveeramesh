@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **naveenarameshvardhini@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mVBtxAo09o9ZE793_9yw6w117-SA5UdQ/view?usp=sharing](https://drive.google.com/file/d/1mVBtxAo09o9ZE793_9yw6w117-SA5UdQ/view?usp=sharing)
+- 📄 Know about my experiences https://bit.ly/2Xn6EI3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
