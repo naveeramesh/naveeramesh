@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveena Ramesh Vardhini J</h1>
+![banner](https://user-images.githubusercontent.com/54928117/129141734-f2844bd2-5531-478c-aa8f-51972722ab76.jpg)
+
 <h3 align="center">A hardworking Flutter developer from India</h3>
 <h4 align="center">Who am I ?</h3>
 <h3 align="center">I'm a B.E CSE junior year student  at Sathybama University,Chennai.I have experience in Flutter,UI/UX,Web design.Looking forward to contribute in an Open Source.Field of Intrest->Mobile Development(Flutter),DevOps,ML/AI,Web design</h3>
