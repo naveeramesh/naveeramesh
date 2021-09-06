@@ -11,13 +11,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveeramesh&label=Profile%20views&color=0e75b6&style=flat" alt="naveeramesh" /> </p>
 
-- 🔭 I’m currently working on **Onepad**
+- 🔭 I’m currently working on **GwOC'21**
 
 - 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **naveenarameshvardhini@gmail.com**
 
 - 📄 Know about my experiences https://bit.ly/2Xn6EI3
+
+- 🌟 Co-founder of a community Tech Fusion
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
