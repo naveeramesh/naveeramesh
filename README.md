@@ -8,6 +8,7 @@
 <h3 align="center">A hardworking Flutter developer from India</h3>
 <h4 align="center">👨‍💻 Who am I ?</h3>
 <h3 align="center">I'm a B.E CSE junior year student  at Sathybama University,Chennai.I have experience in Flutter,UI/UX,Web design.Looking forward to contribute for an Open Source.Field of Intrest->Mobile Development(Flutter),DevOps,ML/AI,Web design</h3>
+<h3 align="center">I'm also a Girls@Tech Lead at Google Developer Students Club - Sathybama, Co founder of Tech Fusion </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveeramesh&label=Profile%20views&color=0e75b6&style=flat" alt="naveeramesh" /> </p>
 
