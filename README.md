@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences https://bit.ly/2Xn6EI3
 
-- 🌟 Co-founder of a community Tech Fusion
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
