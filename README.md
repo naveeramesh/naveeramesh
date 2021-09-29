@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **naveenarameshvardhini@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/2Xn6EI3
-
+- 📄 Know about my experiences https://naveeramesh.github.io/portfolio/
 
 
 <h3 align="left">Connect with me:</h3>
