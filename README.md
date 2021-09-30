@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/naveena__ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/naveena__ramesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveena-ramesh-vardhini-j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveena-ramesh-vardhini-j/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/navee_ramesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/navee_ramesh/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/navee_techz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/navee_ramesh/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/naveeramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/naveeramesh" height="30" width="40" /></a>
 </p>
 
