@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **naveenarameshvardhini@gmail.com**
 
+- 📑 Explore my resume https://tinyurl.com/3erby52d
+
 - 📄 Know about my experiences https://naveeramesh.github.io/portfolio/
 
 - ▶️ Get on to my channel https://bit.ly/2WqWBSc
