@@ -5,10 +5,14 @@
 
 
 
-<h3 align="center">A hardworking Flutter developer from India</h3>
+<h3 align="center">Tech Explorerfrom India</h3>
 <h4 align="center">👨‍💻 Who am I ?</h3>
-<h3 align="center">I'm a B.E CSE junior year student  at Sathybama University,Chennai.I have experience in Flutter,UI/UX,Web design.Looking forward to contribute for an Open Source.Field of Intrest->Mobile Development(Flutter),DevOps,ML/AI,Web design</h3>
-<h3 align="center">I involved my self into Open Source contribution,contributed to Programming club, Girlscript Winter of Contributing,Hacktoberfest'21 and cuurently Mentoring at GDSC IIT Kalyani. I'm also a Girls@Tech Lead at Developer Students club Sist,Technical Pilot at HackClub Sist. </h3>
+<h6 align="center">
+ I'm a pre - final year student at Sathyabama Institute of Science and Technology,currently pursuing Bachelor of Computer science engineering, I have explored around Flutter development, UI/UX design, Python and published various blogs under hashnode.
+I have a pretty good experience by contributing in PSOC, Hacktoberfest'21 and currently working in GWoC'21 and currently mentoring at GDSC IIT Kalyani.I have published an article at ICMS 2020.
+I'm also a Girls@Tech Lead at Google Developer Students Club Sathyabama , Technical pilot at Hackclub Sist and Flutter Lead at Dexenix
+</h6>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveeramesh&label=Profile%20views&color=0e75b6&style=flat" alt="naveeramesh" /> </p>
 
