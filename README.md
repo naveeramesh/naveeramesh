@@ -16,7 +16,7 @@ I'm also a Girls@Tech Lead at Google Developer Students Club Sathyabama , Techni
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveeramesh&label=Profile%20views&color=0e75b6&style=flat" alt="naveeramesh" /> </p>
 
-- 🔭 I’m currently working on **GwOC'21**
+
 
 - 🌱 I’m currently learning **ML**
 
