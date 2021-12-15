@@ -9,7 +9,7 @@
 <h4 align="center">👨‍💻 Who am I ?</h3>
 <h6 align="center">
  I'm a pre - final year student at Sathyabama Institute of Science and Technology,currently pursuing Bachelor of Computer science engineering, I have explored around Flutter development, UI/UX design, Python and published various blogs under hashnode.
-I have a pretty good experience by contributing in PSOC, Hacktoberfest'21 and currently working in GWoC'21 and currently mentoring at GDSC IIT Kalyani.I have published an article at ICMS 2020.
+I have a pretty good experience by contributing in PSOC, Hacktoberfest'21, GWoC'21,currently mentoring at WOC and SWOC.I have published an article at ICMS 2020.
 I'm also a Girls@Tech Lead at Google Developer Students Club Sathyabama , Technical pilot at Hackclub Sist and Flutter Lead at Dexenix
 </h6>
 
