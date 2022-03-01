@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Tech Explorerfrom India</h3>
+<h3 align="center">Tech Explorer from India</h3>
 <h4 align="center">👨‍💻 Who am I ?</h3>
 <h6 align="center">
  I'm a pre - final year student at Sathyabama Institute of Science and Technology,currently pursuing Bachelor of Computer science engineering, I have explored around Flutter development, UI/UX design, Python and published various blogs under hashnode.
