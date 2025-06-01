@@ -5,7 +5,7 @@
 
 
 <h4 align="center">👨‍💻 Who am I ?</h3>
-<h6 align="center">
+<h6>
 
 I am a Computer Science Engineering graduate with a strong passion for software development and community engagement. I specialize in Flutter development, UI/UX design, and Python, and have expanded my technical skill set to include JavaScript, Node.js, Vue.js, LangChain, DynamoDB, and SQL.
 
@@ -13,13 +13,11 @@ Professionally, I am currently working as an Associate Software Development Engi
 
 My open-source contributions include active participation in PSOC, Hacktoberfest 2021, and GirlScript Winter of Code (GWoC) 2021, and I am currently mentoring in Winter of Code (WOC) and Script Winter of Code (SWOC). I am passionate about technical writing and have published multiple blogs on Hashnode, as well as a research article at ICMS 2020.
 
-Beyond development, I play a significant role in tech communities. I serve as:
+Beyond development, I play a significant role in tech communities. 
+
+I served as:
 
 Girls@Tech Lead at Google Developer Student Clubs (GDSC) Sathyabama
-
-Flutter Lead at Dexenix
-
-Technical Pilot at HackClub SIST
 
 I thrive at the intersection of development, design, and community, always eager to learn and help others grow in tech.
 </h6>
